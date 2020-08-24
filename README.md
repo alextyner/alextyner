@@ -1,5 +1,6 @@
-### Hi there 👋
-
+## Hi there 👋
+### Have a look around! 👁️👄👁️
+#### Feel free to make a pull request or get in touch 📫
 <!--
 **alextyner/alextyner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
